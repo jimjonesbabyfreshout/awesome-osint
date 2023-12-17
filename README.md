@@ -1,26 +1,35 @@
-# Awesome OSINT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
-A curated list of amazingly awesome open source intelligence tools and resources.
-[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
-In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources)
-
+[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence)
 ## 📖 Table of Contents
 
  - [General Search](#-general-search)
+  
  - [Main National Search Engines](#-main-national-search-engines)
+   
  - [Meta Search](#-meta-search)
+   
  - [Specialty Search Engines](#-specialty-search-engines)
+   
  - [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
+   
  - [Similar Sites Search](#-similar-sites-search)
+   
  - [Document and Slides Search](#-document-and-slides-search)
+   
  - [File Search](#-file-search)
+   
  - [Pastebins](#-pastebins)
+   
  - [Code Search](#-code-search)
+   
  - [Major Social Networks](#-major-social-networks)
+   
  - [Real-Time Search, Social Media Search, and General Social Media Tools](#-real-time-search-social-media-search-and-general-social-media-tools)
+   
  - [Social Media Tools](#social-media-tools)
+   
    - [Twitter](#-twitter)
    - [Facebook](#-facebook)
    - [Instagram](#-instagram)
@@ -85,30 +94,45 @@ Thanks to our main contributors
 
 *The main search engines used by users.*
 
-* [Aol](https://search.aol.com) - The web for America.
-* [Ask](https://www.ask.com) - Ask something and get a answer.
-* [Bing](https://www.bing.com) - Microsoft´s search engine.
-* [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
-* [DuckDuckGo](https://duckduckgo.com) - an Internet search engine that emphasizes protecting searchers' privacy.
-* [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
-* [Google Search](https://www.google.com) - Most popular search engine.
-* [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
+* [Aol](https://search.aol.com)
+  
+* [Ask](https://www.ask.com)
+  
+* [Bing](https://www.bing.com)
+  
+* [Brave](https://search.brave.com)
+  
+* [DuckDuckGo](https://duckduckgo.com)
+* 
+* [Goodsearch](https://www.goodsearch.com)
+  
+* [Google Search](https://www.google.com)
+  
+* [Instya](https://www.instya.com)
+  
 * [Impersonal.me](http://www.impersonal.me)
-* [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
-* [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
-* [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
-* [SurfCanyon](https://www.surfcanyon.com) - a real-time contextual search technology that observes user behavior in order to disambiguate intent "on the fly," and then automatically bring forward to page one relevant results that might otherwise have remain buried.
-* [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
-algorithms, knowledgebase and AI technology.
-* [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
-* [YOU](https://you.com) - AI search engine.
+* [Lycos](https://www.lycos.com)
+  
+* [Mojeek](https://www.mojeek.com/)
+  
+* [Search.com](https://www.search.com)
+  
+* [SurfCanyon](https://www.surfcanyon.com)
+  
+* [Wolfram Alpha](https://www.wolframalpha.com)
+  
+* [Yahoo! Search](https://www.yahoo.com)
+* 
+* [YOU](https://you.com)
+  
 
 ## [↑](#-table-of-contents) Main National Search Engines
 
 *Localized search engines by country.*
 
 * [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
-* [Baidu (China)](http://www.baidu.com) - The major search engine used in China
+* [Baidu (China)](http://www.baidu.com)
+  
 * [Eniro (Sweden)](http://www.eniro.se)
 * [Goo (Japan)](http://www.goo.ne.jp)
 * [Najdsi (Slovenia)](http://www.najdi.si)
@@ -544,7 +568,8 @@ algorithms, knowledgebase and AI technology.
 * [iSpionage](https://www.ispionage.com)
 * [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
-* [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
+* [Linkedin](https://www.linkedin.com)
+  
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [Mergent Intellect](http://www.mergentintellect.com)
 * [Mergent Online](http://www.mergentonline.com/login.php)
@@ -761,9 +786,13 @@ algorithms, knowledgebase and AI technology.
 * [Geosearch](http://www.geosearchtool.com)
 * [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 * [LiveLeak](http://www.liveleak.com)
+* 
 * [Metacafe](http://www.metacafe.com)
+* 
 * [Metatube](http://www.metatube.com)
-* [Tubuep](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
+* 
+* [Tubuep](https://github.com/bibanon/tubeup)
+* 
 * [Veoh](http://www.veoh.com)
 * [Vimeo](https://vimeo.com)
 * [Yahoo Video Search](http://video.search.yahoo.com)
@@ -772,15 +801,18 @@ algorithms, knowledgebase and AI technology.
 * [ccSUBS](http://ccsubs.com/) - Download Closed Captions & Subtitles from YouTube
 * [YouTube Metadata](https://mattw.io/youtube-metadata/)
 * [YouTube Geofind](https://mattw.io/youtube-geofind/)
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp/)
+  
 * [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
-* [Filmot](https://filmot.com/) - Search within YouTube subtitles. Indexing over 573 million captions across 528 million videos and 45 million channels.
+* [Filmot](https://filmot.com/)
+* 
 
-## [↑](#-table-of-contents) Academic Resources and Grey Literature
+## [↑](#-table-of-contents)
+
 
 * [Academia](https://www.academia.edu)
 * [Academic Journals](http://www.academicjournals.org)
-* [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
+
 * [American Society of Civil Engineers](http://ascelibrary.org)
 * [Base](http://www.base-search.net)
 * [Bibsonomy](http://www.bibsonomy.org)
@@ -1086,7 +1118,8 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) Browsers
 
 * [Atom](https://browser.ru/)
-* [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
+* [Brave](https://brave.com)
+  
 * [CentBrowser](http://www.centbrowser.com)
 * [Chrome](https://www.google.com/chrome)
 * [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
@@ -1314,20 +1347,25 @@ urls and other data effortlessly
   * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot Github repository.
 * [SpiderSuite](https://github.com/3nock/SpiderSuite) - An advance, cross-platform, GUI web security crawler.
 * [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports [10 API wrappers](https://serpapi.com/integrations).
-* [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
-* [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users
-* [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
-* [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
-* [Sub3 Suite](https://github.com/3nock/sub3suite) - A research-grade suite of tools for intelligence gathering & target mapping with both active and passive(100+ modules) intelligence gathering capabilities.
-
+* [SerpScan](https://github.com/Alaa-abdulridha/SerpScan)
+* 
+* [Zen](https://github.com/s0md3v/Zen)
+* 
+* [OSINT.SH](https://osint.sh/)
+* 
+* [FOCA](https://github.com/ElevenPaths/FOCA)
+* 
+* [Sub3 Suite](https://github.com/3nock/sub3suite)
 
 ## [↑](#-table-of-contents) Threat Intelligence
 
-* [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
-* [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
-* [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
-* [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
-
+* [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets)
+* 
+* [REScure Threat Intel Feed](https://rescure.fruxlabs.com/)
+* 
+* [OTX AlienVault](https://otx.alienvault.com/) - 
+* [OnionScan](https://github.com/s-rah/onionscan) -
+* 
 ## [↑](#-table-of-contents) OSINT Videos
 
 * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
@@ -1369,17 +1407,14 @@ urls and other data effortlessly
 * [awesome-lockpicking](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 * [awesome-pentest](https://github.com/enaqx/awesome-pentest) by @enaqx
-* [awesome-privacy](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
-* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) by @PaulSec
-* [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
+* [awesome-privacy](https://github.com/Lissy93/awesome-privacy/)
+* 
+* [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
+  
+* [awesome-security](https://github.com/sbilly/awesome-security)
+* 
 * [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
 * [infosec reference](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
 * [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
-
-## License
-
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
