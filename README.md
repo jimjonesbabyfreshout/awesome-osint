@@ -1,6 +1,4 @@
 
-[<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
-
 [Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence)
 ## 📖 Table of Contents
 
@@ -178,7 +176,8 @@ Thanks to our main contributors
 * [Zanran](http://zanran.com)
 * [Intelligence X](https://intelx.io/tools)
 * [OCCRP Aleph](https://aleph.occrp.org/)
-* [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+* [Shodan](https://www.shodan.io/)
+  
 * [Mamont](https://www.mmnt.ru/)
 * [GrayhatWarfare](https://grayhatwarfare.com/)
 * [WIPO](https://www3.wipo.int/branddb/en/)
